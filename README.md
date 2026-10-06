@@ -1,9 +1,12 @@
 Student Grade Calculator
 
+
 The program calculates a student’s average grade using their quiz and project scores. It also checks if the student passed.
+
 
 Program Name
 Student Grade Calculator
+
 
 How to Run in DartPad
 
