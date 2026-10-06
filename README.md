@@ -1,23 +1,23 @@
-Student Grade Calculator
-
+**Student Grade Calculator
+**
 
 The program calculates a student’s average grade using their quiz and project scores. It also checks if the student passed.
 
 
-Program Name
-Student Grade Calculator
-
+Program Name:
+**Student Grade Calculator
+**
 
 How to Run in DartPad
 
-Go to DartPad⁠Attachment.png
+1. Go to DartPad⁠Attachment.png
 Select Dart.
 
-Delete the sample code.
+2. Delete the sample code.
 
-Paste your Dart code.
+3. Paste your Dart code.
 
-Click Run.
+4. Click Run.
 
-Check the output in the console at the bottom.
+5. Check the output in the console at the bottom.
 
